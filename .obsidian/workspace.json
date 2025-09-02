@@ -39,14 +39,14 @@
             "id": "f4411878a3fa5ae2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/core-plugins.json",
-                "bFile": ".obsidian/core-plugins.json",
-                "aRef": ""
+                "file": "工作文档/剪映学习笔记.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json"
+              "icon": "lucide-file",
+              "title": "剪映学习笔记"
             }
           }
         ],
@@ -169,10 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作文档/Clash rules.md"
+                "file": "工作文档/剪映学习笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Clash rules 的大纲"
+              "title": "Outline of 剪映学习笔记"
             }
           },
           {
@@ -205,8 +208,8 @@
   },
   "active": "f4411878a3fa5ae2",
   "lastOpenFiles": [
-    "工作文档/test.md",
     "工作文档/Clash rules.md",
+    "工作文档/剪映学习笔记.md",
     "工作内容.md",
     "技术文档/Docker.md",
     "README.md",
