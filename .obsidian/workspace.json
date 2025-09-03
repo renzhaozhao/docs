@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "剪映学习笔记"
             }
+          },
+          {
+            "id": "8fdda3e09e5e4268",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4411878a3fa5ae2",
+  "active": "8fdda3e09e5e4268",
   "lastOpenFiles": [
     "工作文档/Clash rules.md",
     "工作文档/剪映学习笔记.md",
