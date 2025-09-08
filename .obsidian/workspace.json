@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作文档/历史人物视频.md",
+                "file": "工作文档/提示词记录.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "历史人物视频"
+              "title": "提示词记录"
             }
           }
         ],
@@ -224,7 +224,7 @@
   "active": "8fdda3e09e5e4268",
   "lastOpenFiles": [
     "工作文档/剪映学习笔记.md",
-    "工作文档/历史人物视频.md",
+    "工作文档/提示词记录.md",
     "工作文档/Clash rules.md",
     "工作内容.md",
     "技术文档/Docker.md",
