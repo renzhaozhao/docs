@@ -53,12 +53,14 @@
             "id": "8fdda3e09e5e4268",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "工作文档/历史人物视频.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "历史人物视频"
             }
           }
         ],
@@ -221,8 +223,9 @@
   },
   "active": "8fdda3e09e5e4268",
   "lastOpenFiles": [
-    "工作文档/Clash rules.md",
     "工作文档/剪映学习笔记.md",
+    "工作文档/历史人物视频.md",
+    "工作文档/Clash rules.md",
     "工作内容.md",
     "技术文档/Docker.md",
     "README.md",
