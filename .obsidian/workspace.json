@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "剪映学习笔记"
             }
+          },
+          {
+            "id": "d5e2724ca0b512d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作文档/Python学习笔记.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Python学习笔记"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -235,12 +249,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d343f00a8c0d4a40",
+  "active": "d5e2724ca0b512d7",
   "lastOpenFiles": [
     "工作文档/历史人物视频.md",
+    "工作文档/Python学习笔记.md",
+    "工作文档/剪映学习笔记.md",
     "工作文档/提示词记录.md",
     "工作文档/Clash rules.md",
-    "工作文档/剪映学习笔记.md",
     "工作内容.md",
     "技术文档/Docker.md",
     "README.md",
