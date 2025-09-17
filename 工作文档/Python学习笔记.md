@@ -15,3 +15,5 @@ python main.py --listen 0.0.0.0 --port 8188
 ```sh
 pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
+- https://mirrors.aliyun.com/pypi/simple 
+- https://pypi.tuna.tsinghua.edu.cn/simple
